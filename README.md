@@ -5,7 +5,7 @@ This project is based on a computer hardware business which is facing challenges
 ## 1. Problem statements
 AtliQ Hardware is a company which supplies computer hardware and peripherals to many of the clients. They have this client called Excel stores, normal stores across India and they supply all these equipment to them. Now AtliQ Hardware has a head office in Delhi India and then they have a lot of regional offices throughout the India now. 
 
-      Sale director is  facing a lot of challenges so the challenge is this the market is growing dynamically and then he's facing issues in terms of tracking the sales in this dynamically growing market.
+Sale director is  facing a lot of challenges so the challenge is this the market is growing dynamically and then he's facing issues in terms of tracking the sales in this dynamically growing market.
 
 **Problems:**
 
