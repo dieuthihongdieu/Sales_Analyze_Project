@@ -71,8 +71,10 @@ and transactions.market_code="Mark001";
 ```
 ## 4.	Data Cleaning & ETL  
 I perform ETL and data cleaning operations to make it ready before build dashboard in Power BI.
+![Datamodel](https://user-images.githubusercontent.com/88467188/131935196-f185c4c0-9eab-4d13-bc0c-3f5c6f101743.png)
 
 ## 5. Power BI Dashboard
+![Key Insights](https://user-images.githubusercontent.com/88467188/131935198-95ea30bf-fef9-4524-8552-a312454f4dc7.png)
 
 
 
