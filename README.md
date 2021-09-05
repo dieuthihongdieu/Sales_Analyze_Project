@@ -76,6 +76,6 @@ I perform ETL and data cleaning operations to make it ready before build dashboa
 ## 5. Power BI Dashboard
 ![Key Insights](https://user-images.githubusercontent.com/88467188/131935198-95ea30bf-fef9-4524-8552-a312454f4dc7.png)
 
-<p>I publish with amazing things, anyone can check out ! </p>  
-
-[**Power BI online**](https://app.powerbi.com/view?r=eyJrIjoiZjdmMDQyNTMtODc4ZC00MjA2LTkzMmMtNzZkMWE2ZjZiZGFiIiwidCI6IjM1ZTE1M2EzLTViYzgtNGZjMC04YmZhLTVkNDFhZmQ0NDU0NSIsImMiOjN9)
+## 6. Power BI Dashboard
+I published dashboards on Power BI services so anyone can open and interact with
+[**Sale Insights**](https://app.powerbi.com/view?r=eyJrIjoiZjdmMDQyNTMtODc4ZC00MjA2LTkzMmMtNzZkMWE2ZjZiZGFiIiwidCI6IjM1ZTE1M2EzLTViYzgtNGZjMC04YmZhLTVkNDFhZmQ0NDU0NSIsImMiOjN9)
